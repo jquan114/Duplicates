@@ -15,4 +15,4 @@ function containsDuplicate(nums) {
   // If we reach this point, every element is distinct, so return false
   return false;
 }
-containsDuplicate([1,2,3,4,1,2,3,4])
+containsDuplicate([1,2,3,4,1,2,3,4])//true
